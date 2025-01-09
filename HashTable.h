@@ -7,7 +7,7 @@
 #include <string.h>
 #include "Dict.h"
 #include "TableEntry.h"
-#include "/home/clear/labPRG/Año2/PRA_2324_P1/ListLinked.h"
+#include "../PRA_2324_P1/ListLinked.h"
 
 using namespace std;
 
